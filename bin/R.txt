@@ -270,6 +270,7 @@ int id crime_solved 0x7f050044
 int id crime_suspectButton 0x7f050045
 int id crime_title 0x7f050041
 int id default_activity_button 0x7f050029
+int id detailFragmentContainer 0x7f05003e
 int id dialog 0x7f05000e
 int id dialog_date_datePicker 0x7f05003f
 int id disableHome 0x7f050008
@@ -278,7 +279,6 @@ int id edit_query 0x7f050031
 int id end 0x7f050013
 int id expand_activities_button 0x7f050027
 int id expanded_menu 0x7f05002d
-int id fragementContainer 0x7f05003e
 int id fragmentContainer 0x7f05003d
 int id home 0x7f050014
 int id homeAsUp 0x7f050005
@@ -347,11 +347,13 @@ int layout abc_search_view 0x7f030016
 int layout abc_simple_decor 0x7f030017
 int layout activity_fragment 0x7f030018
 int layout activity_main 0x7f030019
-int layout dialog_date 0x7f03001a
-int layout fragment_crime 0x7f03001b
-int layout fragment_crime_camera 0x7f03001c
-int layout list_item_crime 0x7f03001d
-int layout support_simple_spinner_dropdown_item 0x7f03001e
+int layout activity_masterdetail 0x7f030020
+int layout activity_twopane 0x7f03001a
+int layout dialog_date 0x7f03001b
+int layout fragment_crime 0x7f03001c
+int layout fragment_crime_camera 0x7f03001d
+int layout list_item_crime 0x7f03001e
+int layout support_simple_spinner_dropdown_item 0x7f03001f
 int menu crime_list_item_context 0x7f0c0000
 int menu fragment_crime_list 0x7f0c0001
 int menu main 0x7f0c0002
